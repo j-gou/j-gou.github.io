@@ -4,8 +4,13 @@ layout: default
 
 ## Publication (Theory and Methods)
 
+1. AC Tamhane, _J Gou_ (2018). 
+Advances in _p_-value based multiple test procedures. 
+**Journal of Biopharmaceutical Statistics** 28 (1), 10-27. 
+[doi:10.1080/10543406.2017.1378666](http://dx.doi.org/10.1080/10543406.2017.1378666). 
+
 1. _J Gou_, AC Tamhane (2018). 
-Hochberg procedure under negative dependence
+Hochberg procedure under negative dependence. 
 **Statistica Sinica** 28 (1), 339-362. 
 [doi:10.5705/ss.202016.0306](http://dx.doi.org/10.5705/ss.202016.0306). 
 
@@ -20,7 +25,7 @@ A _P_-value model for theoretical power analysis and its applications in multipl
 [doi:10.1186/s12874-016-0233-0](http://dx.doi.org/10.1186/s12874-016-0233-0).
 
 1. _J Gou_, AC Tamhane, D Xi, D Rom (2014). 
-A class of improved hybrid Hochberg-Hommel type step-up multiple test procedures
+A class of improved hybrid Hochberg-Hommel type step-up multiple test procedures. 
 **Biometrika** 101 (4), 899-911. 
 [doi:10.1093/biomet/asu032](http://dx.doi.org/10.1093/biomet/asu032).
 
