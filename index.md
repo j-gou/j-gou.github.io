@@ -16,6 +16,7 @@ Experience Simpson’s paradox in the classroom.
 1. Y Xie, Y Gao, J Gou, Y Cheng, D Honbo, K Zhang, A Agrawal,  A Choudhary (2012). 
 Probabilistic macro behavioral targeting. 
 DUBMMSM 2012, Proceedings of the 2012 workshop on Data-driven user behavioral modelling and mining from social media, 7-10. 
+[doi:10.1145/2390131.2390135](http://dx.doi.org/10.1145/2390131.2390135). 
 
 1. Z Yin, C Zuo, J Gou, J Jia (2011). 
 Soil loss of different land use type in central hill region of the Sichuan basin. 
