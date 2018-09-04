@@ -5,8 +5,6 @@ layout: default
 ## Education 
 
 
-## Teaching
-
 
 ## Publications 
 [[Link to Google Scholar]](https://scholar.google.com/citations?user=tkdK1j4AAAAJ&hl=en) 
@@ -86,6 +84,13 @@ Design strategies and soil erosion reduction effect of soil and water conservati
 Nongye Xitong Kexue Yu Zonghe Yanjiu (**System Sciences and Comprehensive Studies in Agriculture**) 25 (3), 369-374. 
 
 
+
+## Teaching
+
+1. March 2012. 
+Science 167 How Planes Can Fly. 
+Northwestern University SPLASH for high school students, Evanston, IL. 
+[[NU SPLASH 2012 Course Catalog]](https://nusplash.learningu.org/learn/Splash/2012/catalog). 
 
 
 
