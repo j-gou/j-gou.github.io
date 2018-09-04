@@ -2,8 +2,14 @@
 layout: default
 ---
 
+## Education 
+
+
+## Teaching
+
+
 ## Publications 
-[[Link to Google Scholar]](https://scholar.google.com/citations?user=tkdK1j4AAAAJ&hl=en).
+[[Link to Google Scholar]](https://scholar.google.com/citations?user=tkdK1j4AAAAJ&hl=en) 
 
 ### Publications (Theory and Methods)
 
