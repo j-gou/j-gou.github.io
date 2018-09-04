@@ -4,7 +4,12 @@ layout: default
 
 ## Publication (Theory and Methods)
 
-1. J Gou, AC Tamhane (2014). 
+1. _J Gou_, AC Tamhane, D Xi, D Rom (2014). 
+A class of improved hybrid Hochberg-Hommel type step-up multiple test procedures
+**Biometrika** 101 (4), 899-911. 
+[doi:10.1093/biomet/asu032](http://dx.doi.org/10.1093/biomet/asu032).
+
+1. _J Gou_, AC Tamhane (2014). 
 On generalized Simes critical constants. 
 **Biometrical Journal** 56 (6), 1035-1054. 
 [doi:10.1002/bimj.201300258](http://dx.doi.org/10.1002/bimj.201300258).
