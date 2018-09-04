@@ -4,6 +4,11 @@ layout: default
 
 ## Publication (Theory and Methods)
 
+1. _J Gou_, AC Tamhane (2018). 
+Hochberg procedure under negative dependence
+**Statistica Sinica** 28 (1), 339-362. 
+[doi:10.5705/ss.202016.0306](http://dx.doi.org/10.5705/ss.202016.0306). 
+
 1. _J Gou_, AC Tamhane (2017). 
 Estimation of a parametric function associated with the lognormal distribution. 
 **Communications in Statistics - Theory and Methods** 46 (16), 8134-8154. 
