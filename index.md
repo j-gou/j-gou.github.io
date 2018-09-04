@@ -2,9 +2,10 @@
 layout: default
 ---
 
-# Publications [[Link to Google Scholar]](https://scholar.google.com/citations?user=tkdK1j4AAAAJ&hl=en).
+## Publications 
+[[Link to Google Scholar]](https://scholar.google.com/citations?user=tkdK1j4AAAAJ&hl=en).
 
-## Publications (Theory and Methods)
+### Publications (Theory and Methods)
 
 1. _J Gou_, AC Tamhane (2018). 
 A flexible choice of critical constants for the improved hybrid Hochberg-Hommel procedure. 
@@ -47,14 +48,14 @@ On generalized Simes critical constants.
 **Biometrical Journal** 56 (6), 1035-1054. 
 [doi:10.1002/bimj.201300258](http://dx.doi.org/10.1002/bimj.201300258).
  
-## Publications (Statistical Education)
+### Publications (Statistical Education)
 
 1.  _J Gou_, F Zhang (2017). 
 Experience Simpson’s paradox in the classroom. 
 **The American Statistician** 71 (1), 61-66. 
 [doi:10.1080/00031305.2016.1200485](http://dx.doi.org/10.1080/00031305.2016.1200485).
 
-## Publications (Applications and Case Studies)
+### Publications (Applications and Case Studies)
 
 1. H Neumeister, M Adelman, W Gallagher, _J Gou_, K Merrins, M Perkowski, S Shih, B Terranova, T Preuss (2017). 
 Socially induced plasticity in sensorimotor gating in the African cichlid fish Astatotilapia burtoni. 
