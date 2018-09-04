@@ -4,6 +4,16 @@ layout: default
 
 ## Publication (Theory and Methods)
 
+1. _J Gou_, AC Tamhane (2017). 
+Estimation of a parametric function associated with the lognormal distribution. 
+**Communications in Statistics - Theory and Methods** 46 (16), 8134-8154. 
+[doi:10.1080/03610926.2016.1175628](http://dx.doi.org/10.1080/03610926.2016.1175628). 
+
+1. F Zhang, _J Gou_ (2016). 
+A _P_-value model for theoretical power analysis and its applications in multiple testing procedures.
+**BMC Medical Research Methodology** 16, 135. 
+[doi:10.1186/s12874-016-0233-0](http://dx.doi.org/10.1186/s12874-016-0233-0).
+
 1. _J Gou_, AC Tamhane, D Xi, D Rom (2014). 
 A class of improved hybrid Hochberg-Hommel type step-up multiple test procedures
 **Biometrika** 101 (4), 899-911. 
