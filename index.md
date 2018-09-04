@@ -33,6 +33,11 @@ Experience Simpson’s paradox in the classroom.
 
 ## Publication (Applications and Case Studies)
 
+1. H Neumeister, M Adelman, W Gallagher, _J Gou_, K Merrins, M Perkowski, S Shih, B Terranova, T Preuss (2017). 
+Socially induced plasticity in sensorimotor gating in the African cichlid fish Astatotilapia burtoni. 
+**Behavioural Brain Research** 332, 32-39.
+[doi:10.1016/j.bbr.2017.05.049](http://dx.doi.org/10.1016/j.bbr.2017.05.049). 
+
 1. Y Xie, Y Gao, _J Gou_, Y Cheng, D Honbo, K Zhang, A Agrawal,  A Choudhary (2012). 
 Probabilistic macro behavioral targeting. 
 DUBMMSM 2012, Proceedings of the 2012 workshop on Data-driven user behavioral modelling and mining from social media, 7-10. 
