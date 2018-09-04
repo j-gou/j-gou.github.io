@@ -4,6 +4,11 @@ layout: default
 
 ## Publication (Theory and Methods)
 
+1. _J Gou_, AC Tamhane (2018). 
+A flexible choice of critical constants for the improved hybrid Hochberg-Hommel procedure. 
+**Sankhya B** 80 (1), 85-97. 
+[doi:10.1007/s13571-017-0135-0](http://dx.doi.org/10.1007/s13571-017-0135-0). 
+
 1. AC Tamhane, _J Gou_, C Jennison, CR Mehta, T Curto (2018). 
 A gatekeeping procedure to test a primary and a secondary endpoint in a group sequential design with multiple interim looks. 
 **Biometrics** 74 (1), 40-48. 
