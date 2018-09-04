@@ -4,6 +4,11 @@ layout: default
 
 ## Publication (Theory and Methods)
 
+1. J Gou, AC Tamhane (2014). 
+On generalized Simes critical constants. 
+**Biometrical Journal** 56 (6), 1035-1054. 
+[doi:10.1002/bimj.201300258](http://dx.doi.org/10.1002/bimj.201300258).
+ 
 ## Publication (Statistical Education)
 
 1.  _J Gou_, F Zhang (2017). 
