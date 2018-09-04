@@ -4,6 +4,12 @@ layout: default
 
 ## Publication (Theory and Methods)
 
+1. AC Tamhane, _J Gou_, C Jennison, CR Mehta, T Curto (2018). 
+A gatekeeping procedure to test a primary and a secondary endpoint in a group sequential design with multiple interim looks. 
+**Biometrics** 74 (1), 40-48. 
+[doi:10.1111/biom.12732](http://dx.doi.org/10.1111/biom.12732).  
+[[R package: gsrsb]](https://CRAN.R-project.org/package=gsrsb).  
+
 1. AC Tamhane, _J Gou_ (2018). 
 Advances in _p_-value based multiple test procedures. 
 **Journal of Biopharmaceutical Statistics** 28 (1), 10-27. 
