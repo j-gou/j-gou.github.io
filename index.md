@@ -87,6 +87,11 @@ Nongye Xitong Kexue Yu Zonghe Yanjiu (**System Sciences and Comprehensive Studie
 
 ## Teaching
 
+1. Winter 2013. 
+Data Analysis and Statistics. 
+Evanston Township High School, Evanston, IL. 
+[[Teaching Certificate Program: NU-AVID program]](http://www.northwestern.edu/searle/programs-events/grad/teaching-certificate-program/nu-avid-program.html). 
+
 1. March 2012. 
 Science 167 How Planes Can Fly. 
 Northwestern University SPLASH for high school students, Evanston, IL. 
