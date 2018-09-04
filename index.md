@@ -87,7 +87,7 @@ Nongye Xitong Kexue Yu Zonghe Yanjiu (**System Sciences and Comprehensive Studie
 
 ## Teaching
 
-### Teaching at Teaching at College and University  
+### Teaching at College and University  
 
 1. Fall 2013. 
 STAT 202 Introduction to Statistics. 
