@@ -14,8 +14,12 @@ Experience Simpson’s paradox in the classroom.
 ## Publication (Applications and Case Studies)
 
 1. Z Yin, J Gou, Y Li (2009). 
-Design strategies and soil erosion reduction effect of soil and water conservation measures in hilly area of central Sichuan basin
-Nongye Xitong Kexue Yu Zonghe Yanjiu (System Sciences and Comprehensive Studies in Agriculture) 25 (3), 369-374. 
+Relationship between land use structure and soil losses watershed of central hill region of Sichuan basin. 
+Nongye Xiandaihua Yanjiu (**Research of Agricultural Modernization**) 30 (3), 360-363/368. 
+
+1. Z Yin, J Gou, Y Li (2009). 
+Design strategies and soil erosion reduction effect of soil and water conservation measures in hilly area of central Sichuan basin. 
+Nongye Xitong Kexue Yu Zonghe Yanjiu (**System Sciences and Comprehensive Studies in Agriculture**) 25 (3), 369-374. 
 
 
 
