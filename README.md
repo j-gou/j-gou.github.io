@@ -1,1 +1,2 @@
 # Jiangtao Gou 
+I obtained my Ph.D. degree in Statistics at Northwestern University. Now I am a Postdoctoral Research Fellow in Industrial Engineering and Management Sciences at Northwestern University. My background includes physics, mathematics, computer science and statistics. My research interests include: design of experiments, data mining, numerical analysis, network analysis, spatial analysis, sampling, biostatistics, etc. My doctoral research focuses on multiple testing procedures for clinical trials.
