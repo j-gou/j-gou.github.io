@@ -24,7 +24,8 @@ src="https://www.youtube.com/embed/eTCsqjW_07M">
 <a name="teaching_aag"></a>
 ### Teaching at a glance
 
-![TAS2017](assets/img/tas2017cover.png | width=100)
+<img src="assets/img/tas2017cover.png" width="100">
+
 
 <a name="education"></a>
 ## Education 
