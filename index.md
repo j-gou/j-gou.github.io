@@ -2,8 +2,8 @@
 layout: default
 ---
 
-
-<video iframe allowfullscreen="" class="youtube-player" frameborder="0" src="http://www.youtube.com/embed/eTCsqjW_07M" width="640" height="360" controls preload title="RSG" type="text/html"></video>
+</div
+<span style="font-family: georgia,serif"><iframe allowfullscreen="" class="youtube-player" frameborder="0" height="360" src="http://www.youtube.com/embed/eTCsqjW_07M" title="RSG" type="text/html" width="640"></iframe></span></div>
 
 
 <a name="education"></a>
