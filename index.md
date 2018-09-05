@@ -18,7 +18,11 @@ Seven Minutes of Science: An Interdisciplinary Symposium, Evanston, IL, Septembe
 src="https://www.youtube.com/embed/eTCsqjW_07M">
 </iframe> 
 
+<a name="research_aag"></a>
+### Research at a glance
 
+<a name="teaching_aag"></a>
+### Teaching at a glance
 
 <a name="education"></a>
 ## Education 
