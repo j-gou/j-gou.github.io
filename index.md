@@ -143,6 +143,13 @@ Nongye Xitong Kexue Yu Zonghe Yanjiu (**System Sciences and Comprehensive Studie
 <a name="teaching_univ"></a>
 ### Teaching at College and University  
 
+1. Fall 2015. 
+STAT 213 Introduction to Applied Statistics. 
+Hunter College of CUNY, New York, NY. 
+
+[[Syllabus]](assets/doc/hunter20152_stat213syllabus) 
+
+
 1. Fall 2013. 
 STAT 202 Introduction to Statistics. 
 Northwestern University, Evanston, IL. 
