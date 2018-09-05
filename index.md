@@ -25,8 +25,8 @@ src="https://www.youtube.com/embed/eTCsqjW_07M">
 ### Teaching at a glance
 
 <p float="left">
-  <img src="assets/img/tas2017cover.png" width="200">
-  <img src="ETHS_SchoolSeal.jpg" width="200">
+  <img src="assets/img/tas2017cover.png" width="200" />
+  <img src="ETHS_SchoolSeal.jpg" width="100" />
 <\p>
 
 
