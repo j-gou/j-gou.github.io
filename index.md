@@ -3,12 +3,11 @@ layout: default
 ---
 
 ### A Brief Introduction to Multiple Tests
-
 #### Speeding up Clinical Trials by Jiangtao Gou
 
 Seven Minutes of Science: An Interdisciplinary Symposium, Evanston, IL, September 19, 2013
 
-<iframe width="420" height="300"
+<iframe width="400" height="300"
 src="https://www.youtube.com/embed/eTCsqjW_07M">
 </iframe> 
 
