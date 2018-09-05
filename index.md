@@ -8,7 +8,7 @@ layout: default
 
 Seven Minutes of Science: An Interdisciplinary Symposium, Evanston, IL, September 19, 2013
 
-<iframe width="420" height="315"
+<iframe width="420" height="300"
 src="https://www.youtube.com/embed/eTCsqjW_07M">
 </iframe> 
 
