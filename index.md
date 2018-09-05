@@ -21,6 +21,10 @@ src="https://www.youtube.com/embed/eTCsqjW_07M">
 <a name="research_aag"></a>
 ### Research at a glance
 
+More about Jiangtao's research: 
+[[Publications]](#publications). 
+
+
 <a name="teaching_aag"></a>
 ### Teaching at a glance
 
