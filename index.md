@@ -14,7 +14,7 @@ I have specific expertise in experimental design, clinical trial, data mining an
 #### Speeding up Clinical Trials by Jiangtao Gou
 Seven Minutes of Science: An Interdisciplinary Symposium, Evanston, IL, September 19, 2013
 
-<iframe width="400" height="300"
+<iframe width="360" height="270"
 src="https://www.youtube.com/embed/eTCsqjW_07M">
 </iframe> 
 
