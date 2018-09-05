@@ -3,8 +3,7 @@ layout: default
 ---
 
 
-<video src="http://www.youtube.com/embed/eTCsqjW_07M" width="320" height="200" controls preload></video>
-
+<video iframe allowfullscreen="" class="youtube-player" frameborder="0" src="http://www.youtube.com/embed/eTCsqjW_07M" width="640" height="360" controls preload title="RSG" type="text/html"></video>
 
 
 <a name="education"></a>
