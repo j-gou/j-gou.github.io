@@ -10,7 +10,7 @@ Seven Minutes of Science: An Interdisciplinary Symposium, Evanston, IL, Septembe
 
 <video width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></video>
 
-<iframe width="400" height="240" src="http://www.youtube.com/embed/eTCsqjW_07M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="400" height="240" src="http://www.youtube.com/eTCsqjW_07M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <iframe allowfullscreen="" class="youtube-player" frameborder="0" height="360" src="http://www.youtube.com/embed/eTCsqjW_07M" title="RSG" type="text/html" width="640"></iframe>
 
