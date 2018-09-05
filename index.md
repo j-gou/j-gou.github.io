@@ -2,9 +2,16 @@
 layout: default
 ---
 
+### Welcome to Jiangtao Gou's Homepage
+I am currently an Assistant Professor of Biostatistics and Bioinformatics at Fox Chase Cancer Center, Temple University Health System. Before joining Fox Chase Cancer Center, I was an Assistant Professor of Mathematics and Statistics at CUNY Hunter College between 2015-18, and was a Postdoctoral Research Fellow in Industrial Engineering and Management Sciences at Northwestern University between 2014-15. I obtained my Ph.D. degree in Statistics at Northwestern University in 2014, focusing on multiple testing procedures for clinical trials.
+
+My research mainly concerns development of complex statistical methods for health science and biomedical related problems. 
+I have specific expertise in experimental design, clinical trial, data mining and quantitative research methods.
+
+
+
 ### A Brief Introduction to Multiple Tests
 #### Speeding up Clinical Trials by Jiangtao Gou
-
 Seven Minutes of Science: An Interdisciplinary Symposium, Evanston, IL, September 19, 2013
 
 <iframe width="400" height="300"
