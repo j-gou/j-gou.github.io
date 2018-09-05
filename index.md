@@ -2,10 +2,11 @@
 layout: default
 ---
 
+<a name="education"></a>
 ## Education 
 
 
-
+<a name="publications"></a>
 ## Publications 
 [[Statistical Education]](#publications_edu).
 [[Theory and Methods]](#publications_thy).
@@ -90,16 +91,19 @@ Design strategies and soil erosion reduction effect of soil and water conservati
 Nongye Xitong Kexue Yu Zonghe Yanjiu (**System Sciences and Comprehensive Studies in Agriculture**) 25 (3), 369-374. 
 
 
-
+<a name="teaching"></a>
 ## Teaching
+[[College and University]](#teaching_univ).
+[[High School]](#teaching_high).
 
+<a name="teaching_univ"></a>
 ### Teaching at College and University  
 
 1. Fall 2013. 
 STAT 202 Introduction to Statistics. 
 Northwestern University, Evanston, IL. 
 
-
+<a name="teaching_high"></a>
 ### Teaching at High School 
 
 1. Winter 2013. 
