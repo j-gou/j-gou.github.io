@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<video width="420" height="240" class="youtube-player" src="http://www.youtube.com/embed/eTCsqjW_07M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="" title="RSG" type="text/html" controls preload></video>
+<video width="400" height="240" src="http://www.youtube.com/embed/eTCsqjW_07M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="" title="RSG" type="text/html" controls preload></video>
 
 
 <a name="education"></a>
