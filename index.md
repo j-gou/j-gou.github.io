@@ -2,6 +2,11 @@
 layout: default
 ---
 
+
+<video src="http://www.youtube.com/embed/eTCsqjW_07M" width="320" height="200" controls preload></video>
+
+
+
 <a name="education"></a>
 ## Education 
 
