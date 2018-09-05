@@ -31,6 +31,10 @@ src="https://www.youtube.com/embed/eTCsqjW_07M">
   <img src="assets/img/tas2017cover.png" width="200" />
 </p>
 
+More about Jiangtao's teaching: 
+[[Statistical Education Publications]](#publications_edu). 
+[[Teaching Experience]](#teaching). 
+[[Academic Advising]](#advising). 
 
 <a name="education"></a>
 ## Education 
@@ -147,5 +151,6 @@ Northwestern University SPLASH for high school students, Evanston, IL.
 [[NU SPLASH 2012 Course Catalog]](https://nusplash.learningu.org/learn/Splash/2012/catalog). 
 
 
-
+<a name="advising"></a>
+## Academic Advising
 
