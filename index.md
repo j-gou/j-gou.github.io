@@ -28,7 +28,7 @@ src="https://www.youtube.com/embed/eTCsqjW_07M">
   <img src="assets/img/tas2017cover.png" width="200" />
   <img src="assets/img/ETHS_SchoolSeal.png" width="105" />
   <img src="assets/img/Northwestern_University_seal.png" width="108" />
-  <img src="assets/img/Hunter_logo.png" width="108" />
+  <img src="assets/img/Hunter_logo.png" width="112" />
 </p>
 
 
