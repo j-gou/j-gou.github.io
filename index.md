@@ -26,7 +26,7 @@ src="https://www.youtube.com/embed/eTCsqjW_07M">
 
 <p float="left">
   <img src="assets/img/tas2017cover.png" width="200" />
-  <img src="ETHS_SchoolSeal.jpg" width="120" />
+  <img src="ETHS_SchoolSeal.png" width="105" />
 </p>
 
 
