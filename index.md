@@ -21,6 +21,12 @@ src="https://www.youtube.com/embed/eTCsqjW_07M">
 <a name="research_aag"></a>
 ### Research at a glance
 
+<p float="left">
+  <img src="assets/img/biometrika2014cover.png" width="200" />
+  <img src="assets/img/biom2018cover.png" width="200" />
+  <img src="assets/img/sinica2018cover.png" width="200" />
+</p>
+
 More about Jiangtao's research: 
 [[Publications]](#publications). 
 
