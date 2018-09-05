@@ -24,7 +24,10 @@ src="https://www.youtube.com/embed/eTCsqjW_07M">
 <a name="teaching_aag"></a>
 ### Teaching at a glance
 
-<img src="assets/img/tas2017cover.png" width="200">
+<p float="left">
+  <img src="assets/img/tas2017cover.png" width="200">
+  <img src="ETHS_SchoolSeal.jpg" width="200">
+<\p>
 
 
 <a name="education"></a>
