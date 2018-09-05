@@ -146,8 +146,10 @@ Nongye Xitong Kexue Yu Zonghe Yanjiu (**System Sciences and Comprehensive Studie
 1. Fall 2015. 
 STAT 213 Introduction to Applied Statistics. 
 Hunter College of CUNY, New York, NY. 
-
-[[Syllabus]](assets/doc/hunter20152_stat213syllabus) 
+[[Syllabus]](assets/doc/teaching/hunter/hunter20152_stat213syllabus.pdf).  
+[[Midterm 1]](assets/doc/teaching/hunter/hunter20152_stat213_midterm1.pdf).  
+[[Midterm 2]](assets/doc/teaching/hunter/hunter20152_stat213_midterm2.pdf).  
+[[Final Exam]](assets/doc/teaching/hunter/hunter20152_stat213_final.pdf).  
 
 
 1. Fall 2013. 
