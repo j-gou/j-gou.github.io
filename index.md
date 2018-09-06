@@ -143,6 +143,17 @@ Nongye Xitong Kexue Yu Zonghe Yanjiu (**System Sciences and Comprehensive Studie
 <a name="teaching_univ"></a>
 ### Teaching at College and University  
 
+1. Fall 2016. 
+STAT 213 Introduction to Applied Statistics. 
+Hunter College of CUNY, New York, NY. 
+[[Syllabus]](assets/doc/teaching/hunter/hunter20162_stat213syllabus_fall2016.pdf).  [[Midterm 1]](assets/doc/teaching/hunter/hunter20162_stat213_midterm1_fall2016.pdf).  [[Midterm 2]](assets/doc/teaching/hunter/hunter20162_stat213_midterm2_fall2016.pdf).  [[Final Exam]](assets/doc/teaching/hunter/hunter20162_stat213_final_fall2016.pdf).  
+
+1. Fall 2016. 
+STAT 706 General Linear Models I. 
+Hunter College of CUNY, New York, NY. 
+[[Syllabus]](assets/doc/teaching/hunter/hunter20162_stat706syllabus_fall2016.pdf).  [[Midterm]](assets/doc/teaching/hunter/hunter20162_stat706_midterm.pdf).  [[Final Exam]](assets/doc/teaching/hunter/hunter20162_stat706_final_fall2016.pdf).    [[Course Content]](assets/doc/teaching/hunter/hunter20162_stat706courseContent.pdf).  
+
+
 1. Spring 2016. 
 STAT 213 Introduction to Applied Statistics. 
 Hunter College of CUNY, New York, NY. 
