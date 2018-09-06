@@ -146,11 +146,14 @@ Nongye Xitong Kexue Yu Zonghe Yanjiu (**System Sciences and Comprehensive Studie
 1. Spring 2016. 
 STAT 213 Introduction to Applied Statistics. 
 Hunter College of CUNY, New York, NY. 
+[[Syllabus]](assets/doc/teaching/hunter/hunter20161_stat213syllabus_spring2016.pdf).  [[Midterm 1]](assets/doc/teaching/hunter/hunter20161_stat213_midterm1_spring2016.pdf).  [[Midterm 2]](assets/doc/teaching/hunter/hunter20161_stat213_midterm2_spring2016.pdf).  [[Final Exam]](assets/doc/teaching/hunter/hunter20161_stat213_final_spring2016.pdf). 
+[[Sample student project 1: _Gender and Characteristics_ by SNO Aguilar]](assets/doc/teaching/hunter/hunter20161_stat213_GenderandCharacteristics_AguilarSNO.pdf). [[Sample student project 2: _The Effects of Sleepiness on College Students_ by Z Sharon]](assets/doc/teaching/hunter/hunter20161_stat213_spring2016_report_Zirkiev_Sharon.pdf)
+
 
 1. Spring 2016. 
 STAT 703 Mathematical Statistics. 
 Hunter College of CUNY, New York, NY. 
-
+[[Syllabus]](assets/doc/teaching/hunter/hunter20161_stat703syllabus_spring2016.pdf).  [[Midterm]](assets/doc/teaching/hunter/hunter20161_stat703_midterm_spring2016.pdf).  [[Final Exam]](assets/doc/teaching/hunter/hunter20161_stat703_final_spring2016.pdf).  
 
 1. Fall 2015. 
 STAT 213 Introduction to Applied Statistics. 
