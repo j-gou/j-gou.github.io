@@ -193,3 +193,18 @@ Northwestern University SPLASH for high school students, Evanston, IL.
 <a name="advising"></a>
 ## Academic Advising
 
+
+<a name="presentations"></a>
+## Presentations
+
+
+
+<a name="professionalExperience"></a>
+## Professional Experience
+
+1. Summer 2012. 
+SAS Data Mining Summer Fellow in the Enterprise Miner R\&D organization. 
+SAS Institute Inc, Cary, NC. 
+
+
+
