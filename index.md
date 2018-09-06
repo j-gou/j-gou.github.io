@@ -202,6 +202,10 @@ Northwestern University SPLASH for high school students, Evanston, IL.
 <a name="professionalExperience"></a>
 ## Professional Experience
 
+1. Spring 2013. 
+Statistical Consultant (Part-time). 
+Feinberg School of Medicine, Northwestern University, Chicago, IL. 
+
 1. Summer 2012. 
 SAS Data Mining Summer Fellow in the Enterprise Miner R\&D organization. 
 SAS Institute Inc, Cary, NC. 
