@@ -205,6 +205,6 @@ Northwestern University SPLASH for high school students, Evanston, IL.
 1. Summer 2012. 
 SAS Data Mining Summer Fellow in the Enterprise Miner R\&D organization. 
 SAS Institute Inc, Cary, NC. 
-
+[[Presentation at SAS: Relevance Feedback]](assets/doc/slides/relevanceFeedbackSlides1.pdf). 
 
 
