@@ -151,7 +151,7 @@ Hunter College of CUNY, New York, NY.
 1. Fall 2016. 
 STAT 706 General Linear Models I. 
 Hunter College of CUNY, New York, NY. 
-[[Syllabus]](assets/doc/teaching/hunter/hunter20162_stat706syllabus_fall2016.pdf).  [[Midterm]](assets/doc/teaching/hunter/hunter20162_stat706_midterm.pdf).  [[Final Exam]](assets/doc/teaching/hunter/hunter20162_stat706_final_fall2016.pdf).    [[Course Content]](assets/doc/teaching/hunter/hunter20162_stat706courseContent.pdf).  
+[[Syllabus]](assets/doc/teaching/hunter/hunter20162_stat706syllabus_fall2016.pdf).  [[Midterm]](assets/doc/teaching/hunter/hunter20162_stat706_midterm.pdf).  [[Final Exam]](assets/doc/teaching/hunter/hunter20162_stat706_final_fall2016.pdf).    [[Course Content]](assets/doc/teaching/hunter/hunter20162_stat706courseContent.pdf).  [[Special lecture: Kalman Filter and the Presidential Election]](assets/doc/slides/electionSlidesPrint_20161116.pdf). 
 
 
 1. Spring 2016. 
