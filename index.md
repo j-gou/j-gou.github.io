@@ -46,6 +46,13 @@ More about Jiangtao's teaching:
 [[Teaching Experience]](#teaching). 
 [[Academic Advising]](#advising). 
 
+<a name="map"></a>
+### Page map 
+
+[[Education]](#education).
+
+[[Publication]](#publication).
+
 <a name="education"></a>
 ## Education 
 
@@ -145,13 +152,13 @@ Nongye Xitong Kexue Yu Zonghe Yanjiu (**System Sciences and Comprehensive Studie
 
 1. Fall 2017. 
 STAT 701 Advanced Probability Theory I. 
-Hunter College of CUNY, New York, NY. 
-[[Syllabus]](assets/doc/teaching/hunter/hunter20172_stat701syllabus_fall2017.pdf).  [[Midterm]](assets/doc/teaching/hunter/hunter20172_stat701_midterm_fall2017.pdf).  [[Final Exam]](assets/doc/teaching/hunter/hunter20172_stat701_final_fall2017.pdf).  
+Hunter College of CUNY, New York, NY.   
+[[Syllabus]](assets/doc/teaching/hunter/hunter20172_stat701syllabus_fall2017.pdf).   [[Midterm]](assets/doc/teaching/hunter/hunter20172_stat701_midterm_fall2017.pdf).  [[Final Exam]](assets/doc/teaching/hunter/hunter20172_stat701_final_fall2017.pdf).  
 
 1. Fall 2017. 
 STAT 706 General Linear Models I. 
-Hunter College of CUNY, New York, NY. 
-[[Syllabus]](assets/doc/teaching/hunter/hunter20172_stat706syllabus_fall2017.pdf). [[Midterm]](assets/doc/teaching/hunter/hunter20172_stat706_midterm_fall2017.pdf).  
+Hunter College of CUNY, New York, NY.   
+[[Syllabus]](assets/doc/teaching/hunter/hunter20172_stat706syllabus_fall2017.pdf).  [[Midterm]](assets/doc/teaching/hunter/hunter20172_stat706_midterm_fall2017.pdf).  
 
 1. Spring 2017. 
 STAT 213 Introduction to Applied Statistics. 
@@ -213,6 +220,9 @@ Northwestern University SPLASH for high school students, Evanston, IL.
 <a name="advising"></a>
 ## Academic Advising
 
+1. Leslie Liu, Master student of Mathematics and Statistics at CUNY Hunter College, June 2017. 
+Nonparametric tests of quadrant dependence. 
+[[Syllabus]](assets/doc/students/hunter/201706_Liu_FinalThesis.pdf). 
 
 <a name="presentations"></a>
 ## Presentations
