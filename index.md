@@ -220,9 +220,9 @@ Northwestern University SPLASH for high school students, Evanston, IL.
 <a name="advising"></a>
 ## Academic Advising
 
-1. Leslie Liu, Master student of Mathematics and Statistics at CUNY Hunter College, June 2017. 
+1. Lie Leslie Liu, Master student of Mathematics and Statistics at CUNY Hunter College, June 2017. 
 Nonparametric tests of quadrant dependence. 
-[[Syllabus]](assets/doc/students/hunter/201706_Liu_FinalThesis.pdf). 
+[[Research Project by Liu]](assets/doc/students/hunter/201706_Liu_FinalThesis.pdf). 
 
 <a name="presentations"></a>
 ## Presentations
