@@ -87,7 +87,7 @@ Advances in _p_-value based multiple test procedures.
 1. _J Gou_, AC Tamhane (2018). 
 Hochberg procedure under negative dependence. 
 **Statistica Sinica** 28 (1), 339-362. 
-[doi:10.5705/ss.202016.0306](http://dx.doi.org/10.5705/ss.202016.0306). 
+[doi:10.5705/ss.202016.0306](http://www3.stat.sinica.edu.tw/statistica/j28n1/J28N116/J28N116.html). 
 
 1. _J Gou_, AC Tamhane (2017). 
 Estimation of a parametric function associated with the lognormal distribution. 
@@ -142,6 +142,16 @@ Nongye Xitong Kexue Yu Zonghe Yanjiu (**System Sciences and Comprehensive Studie
 
 <a name="teaching_univ"></a>
 ### Teaching at College and University  
+
+1. Spring 2017. 
+STAT 213 Introduction to Applied Statistics. 
+Hunter College of CUNY, New York, NY. 
+[[Pretest]](assets/doc/teaching/hunter/hunter20171_stat213preTest_spring2017.pdf).  [[Syllabus]](assets/doc/teaching/hunter/hunter20171_stat213syllabus_spring2017.pdf).  [[Midterm]](assets/doc/teaching/hunter/hunter20171_stat213_midterm_spring2017.pdf).  [[Final Exam]](assets/doc/teaching/hunter/hunter20171_stat213_final_spring2017.pdf).  
+
+1. Spring 2017. 
+STAT 707 General Linear Models II. 
+Hunter College of CUNY, New York, NY. 
+[[Syllabus]](assets/doc/teaching/hunter/hunter20171_stat707syllabus_spring2017.pdf). [[Final Exam]](assets/doc/teaching/hunter20172_stat701_final_fall2017.pdf).    [[Course Content]](assets/doc/teaching/hunter/hunter20171_stat707courseContent.pdf).  
 
 1. Fall 2016. 
 STAT 213 Introduction to Applied Statistics. 
