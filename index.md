@@ -209,8 +209,8 @@ Northwestern University, Evanston, IL.
 1. Winter 2013. 
 Data Analysis and Statistics. 
 Evanston Township High School, Evanston, IL. 
-[[Teaching Certificate Program: NU-AVID program]](http://www.northwestern.edu/searle/programs-events/grad/teaching-certificate-program/nu-avid-program.html). 
-
+[[Teaching Certificate Program: NU-AVID program]](http://www.northwestern.edu/searle/programs-events/grad/teaching-certificate-program/nu-avid-program.html).  [[Syllabus]](assets/doc/teaching/eths/ETHS_syllabus_stat_v3.pdf).  [[Sample project]](assets/doc/teaching/eths/ETHSsampleProject.pdf).    [[Comments on course project by Anthony]](assets/doc/teaching/eths/comments_Anthony.pdf).  [[Comments on course project by Erin and Kelsea]](assets/doc/teaching/eths/comments_Erin_Kelsea.pdf).  [[Comments on course project by Paul, Marilu and Enrique]](assets/doc/teaching/eths/comments_Paul_Marilu_Enrique.pdf).
+ 
 1. March 2012. 
 Science 167 How Planes Can Fly. 
 Northwestern University SPLASH for high school students, Evanston, IL. 
