@@ -168,7 +168,7 @@ Hunter College of CUNY, New York, NY.
 1. Spring 2017. 
 STAT 707 General Linear Models II. 
 Hunter College of CUNY, New York, NY. 
-[[Syllabus]](assets/doc/teaching/hunter/hunter20171_stat707syllabus_spring2017.pdf). [[Final Exam]](assets/doc/teaching/hunter20172_stat701_final_fall2017.pdf).    [[Course Content]](assets/doc/teaching/hunter/hunter20171_stat707courseContent.pdf).  
+[[Syllabus]](assets/doc/teaching/hunter/hunter20171_stat707syllabus_spring2017.pdf).  [[Lecture notes by student]](assets/doc/students/hunter/201706_lectureNotes707.pdf).  [[Final Exam]](assets/doc/teaching/hunter20172_stat701_final_fall2017.pdf).    [[Course Content]](assets/doc/teaching/hunter/hunter20171_stat707courseContent.pdf).  
 
 1. Fall 2016. 
 STAT 213 Introduction to Applied Statistics. 
@@ -223,6 +223,7 @@ Northwestern University SPLASH for high school students, Evanston, IL.
 1. Lie Leslie Liu, Master student of Mathematics and Statistics at CUNY Hunter College, June 2017. 
 Nonparametric tests of quadrant dependence. 
 [[Research Project by Liu]](assets/doc/students/hunter/201706_Liu_FinalThesis.pdf). 
+
 
 <a name="presentations"></a>
 ## Presentations
