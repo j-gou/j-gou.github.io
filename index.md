@@ -146,12 +146,12 @@ Nongye Xitong Kexue Yu Zonghe Yanjiu (**System Sciences and Comprehensive Studie
 1. Fall 2017. 
 STAT 701 Advanced Probability Theory I. 
 Hunter College of CUNY, New York, NY. 
-[[Syllabus]](assets/doc/teaching/hunter/hunter20172_stat701syllabus_fall2017.pdf). [[Midterm]](assets/doc/teaching/hunter20172_stat701_midterm_fall2017.pdf).  [[Final Exam]](assets/doc/teaching/hunter20172_stat701_final_fall2017.pdf).  
+[[Syllabus]](assets/doc/teaching/hunter/hunter20172_stat701syllabus_fall2017.pdf).  [[Midterm]](assets/doc/teaching/hunter/hunter20172_stat701_midterm_fall2017.pdf).  [[Final Exam]](assets/doc/teaching/hunter/hunter20172_stat701_final_fall2017.pdf).  
 
 1. Fall 2017. 
 STAT 706 General Linear Models I. 
 Hunter College of CUNY, New York, NY. 
-[[Syllabus]](assets/doc/teaching/hunter/hunter20172_stat706syllabus_fall2017.pdf). [[Midterm]](assets/doc/teaching/hunter20172_stat706_midterm_fall2017.pdf).  
+[[Syllabus]](assets/doc/teaching/hunter/hunter20172_stat706syllabus_fall2017.pdf). [[Midterm]](assets/doc/teaching/hunter/hunter20172_stat706_midterm_fall2017.pdf).  
 
 1. Spring 2017. 
 STAT 213 Introduction to Applied Statistics. 
