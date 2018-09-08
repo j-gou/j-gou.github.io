@@ -211,7 +211,7 @@ Hunter College of CUNY, New York, NY.
 1. Fall 2013. 
 STAT 202 Introduction to Statistics. 
 Northwestern University, Evanston, IL. 
-[[Syllabus]](assets/doc/teaching/northwestern/nu2013_fall2013syllabus.pdf).  [[Midterm]](assets/doc/teaching/northwestern/nu2013_Midterm.pdf).  [[Final Exam]](assets/doc/teaching/northwestern/nu2013_Final.pdf).  [[Sample student project 1: _Voter Turnout_]](assets/doc/teaching/northwestern/nu2013_RyanMilowickiFinalStatPaper.pdf). [[Sample student project 2: _Speed Limit and Speeding Deaths_]](assets/doc/teaching/northwestern/nu2013_stat202sec23_report_ROTH.pdf)
+[[Syllabus]](assets/doc/teaching/northwestern/nu2013_fall2013syllabus.pdf).  [[Midterm]](assets/doc/teaching/northwestern/nu2013_Midterm.pdf).  [[Final Exam]](assets/doc/teaching/northwestern/nu2013_Final.pdf).  [[Assignments]](assets/doc/teaching/northwestern/nu2013_stat202023Assignment.pdf).   [[Sample student project 1: _Voter Turnout_]](assets/doc/teaching/northwestern/nu2013_RyanMilowickiFinalStatPaper.pdf). [[Sample student project 2: _Speed Limit and Speeding Deaths_]](assets/doc/teaching/northwestern/nu2013_stat202sec23_report_ROTH.pdf)
 
 
 <a name="teaching_high"></a>
