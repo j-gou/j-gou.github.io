@@ -242,12 +242,12 @@ _Nonparametric tests of quadrant dependence_.
 [[Research Project by Liu]](assets/doc/students/hunter/201706_Liu_FinalThesis.pdf). 
 
 1. Aliza Selter, Master student of Mathematics and Statistics at CUNY Hunter College, May 2017. 
-Management of chronic low back pain: phone application data analysis. 
+Management of chronic low back pain: phone application data analysis.  
 [[Research Project by Selter]](assets/doc/students/hunter/201705_Selter_OpenStudioPoster_AlizaSelter.pdf). 
 
 1. So-Young Lim, Master student of Mathematics and Statistics at CUNY Hunter College, May 2017. 
-A new application of crossover designs in educational research. 
-[[Research Project by Lim](assets/doc/students/hunter/201705_Lim_TestingtheEfficiencyofAdd-OnEffectswithCrossoverDesign.pdf). 
+A new application of crossover designs in educational research.   
+[[Research Project by Lim]](assets/doc/students/hunter/201705_Lim_TestingtheEfficiencyofAdd-OnEffectswithCrossoverDesign.pdf). 
 
 1. Vinicio Haro, Master student of Mathematics and Statistics at CUNY Hunter College, August 2016. 
 _Regression models in astrostatistics_. 
