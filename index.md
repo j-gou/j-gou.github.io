@@ -196,7 +196,7 @@ Hunter College of CUNY, New York, NY.
 STAT 213 Introduction to Applied Statistics. 
 Hunter College of CUNY, New York, NY. 
 [[Syllabus]](assets/doc/teaching/hunter/hunter20161_stat213syllabus_spring2016.pdf).  [[Midterm 1]](assets/doc/teaching/hunter/hunter20161_stat213_midterm1_spring2016.pdf).  [[Midterm 2]](assets/doc/teaching/hunter/hunter20161_stat213_midterm2_spring2016.pdf).  [[Final Exam]](assets/doc/teaching/hunter/hunter20161_stat213_final_spring2016.pdf). 
-[[Sample student project 1: _Gender and Characteristics_ by SNO Aguilar]](assets/doc/teaching/hunter/hunter20161_stat213_GenderandCharacteristics_AguilarSNO.pdf). [[Sample student project 2: _The Effects of Sleepiness on College Students_ by Z Sharon]](assets/doc/teaching/hunter/hunter20161_stat213_spring2016_report_Zirkiev_Sharon.pdf)
+[[Sample student project 1: _Gender and Characteristics_]](assets/doc/teaching/hunter/hunter20161_stat213_GenderandCharacteristics_AguilarSNO.pdf). [[Sample student project 2: _The Effects of Sleepiness on College Students_]](assets/doc/teaching/hunter/hunter20161_stat213_spring2016_report_Zirkiev_Sharon.pdf)
 
 
 1. Spring 2016. 
@@ -220,7 +220,7 @@ Northwestern University, Evanston, IL.
 1. Winter 2013. 
 Data Analysis and Statistics. 
 Evanston Township High School, Evanston, IL. 
-[[Teaching Certificate Program: NU-AVID program]](http://www.northwestern.edu/searle/programs-events/grad/teaching-certificate-program/nu-avid-program.html).  [[Syllabus]](assets/doc/teaching/eths/ETHS_syllabus_stat_v3.pdf).  [[Sample project]](assets/doc/teaching/eths/ETHSsampleProject.pdf).    [[Comments on course project by Anthony]](assets/doc/teaching/eths/comments_Anthony.pdf).  [[Comments on course project by Erin and Kelsea]](assets/doc/teaching/eths/comments_Erin_Kelsea.pdf).  [[Comments on course project by Paul, Marilu and Enrique]](assets/doc/teaching/eths/comments_Paul_Marilu_Enrique.pdf).
+[[Teaching Certificate Program: NU-AVID program]](http://www.northwestern.edu/searle/programs-events/grad/teaching-certificate-program/nu-avid-program.html).  [[Syllabus]](assets/doc/teaching/eths/ETHS_syllabus_stat_v3.pdf).  [[Sample project]](assets/doc/teaching/eths/ETHSsampleProject.pdf).    [[Comments on student course project 1]](assets/doc/teaching/eths/comments_Anthony.pdf).  [[Comments on student course project 2]](assets/doc/teaching/eths/comments_Erin_Kelsea.pdf).  [[Comments on student course project 3]](assets/doc/teaching/eths/comments_Paul_Marilu_Enrique.pdf).
  
 1. March 2012. 
 Science 167 How Planes Can Fly. 
