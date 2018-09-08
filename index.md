@@ -50,7 +50,7 @@ More about Jiangtao's teaching:
 ### Page map 
 
 [[Education]](#education).
-[[Publication]](#publication).
+[[Publications]](#publications).
 [[Teaching]](#teaching).
 [[Academic Advising]](#advising).
 [[Presentations]](#presentations).
