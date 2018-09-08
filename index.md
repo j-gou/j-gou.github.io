@@ -61,6 +61,12 @@ More about Jiangtao's teaching:
 <a name="education"></a>
 ## Education 
 
+Ph.D. in Statistics, Northwestern University, Evanston, Illinois, June 2014. 
+
+M.S. in Computational Mathematics, Tsinghua University, Beijing, July 2009.
+
+B.S. in Physics and Mathematics, Tsinghua University, Beijing, July 2007.
+
 
 <a name="publications"></a>
 ## Publications 
