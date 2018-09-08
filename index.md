@@ -53,7 +53,6 @@ More about Jiangtao's teaching:
 [[Publications]](#publications).
 [[Teaching]](#teaching).
 [[Academic Advising]](#advising).
-[[Presentations]](#presentations).
 [[Professional Experience]](#professionalExperience).
 
 
@@ -231,14 +230,24 @@ Northwestern University SPLASH for high school students, Evanston, IL.
 <a name="advising"></a>
 ## Academic Advising
 
+1. Sean Ammirati, Master student of Mathematics and Statistics at CUNY Hunter College, December 2017. 
+Topics in hierarchical linear models. 
+
+1. Aliza Selter, Master student of Mathematics and Statistics at CUNY Hunter College, June 2017. 
+Management of chronic low back pain: phone application data analysis. 
+
+1. Xiaojia Lu, Master student of Mathematics and Statistics at CUNY Hunter College, June 2017. 
+Two-sided testing procedures in group sequential designs. 
+
+1. So-Young Lim, Master student of Mathematics and Statistics at CUNY Hunter College, June 2017. 
+An new application of crossover designs in educational research. 
+
 1. Lie Leslie Liu, Master student of Mathematics and Statistics at CUNY Hunter College, June 2017. 
 Nonparametric tests of quadrant dependence. 
 [[Research Project by Liu]](assets/doc/students/hunter/201706_Liu_FinalThesis.pdf). 
 
-
-<a name="presentations"></a>
-## Presentations
-
+1. Vinicio Haro, Master student of Mathematics and Statistics at CUNY Hunter College, August 2016. 
+Regression models in astrostatistics. 
 
 
 <a name="professionalExperience"></a>
