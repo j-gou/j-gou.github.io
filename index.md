@@ -9,15 +9,6 @@ My research mainly concerns development of complex statistical methods for healt
 I have specific expertise in experimental design, clinical trial, data mining and quantitative research methods.
 
 
-
-### A Brief Introduction to Multiple Tests
-#### Speeding up Clinical Trials by Jiangtao Gou
-Seven Minutes of Science: An Interdisciplinary Symposium, Evanston, IL, September 19, 2013
-
-<iframe width="360" height="270"
-src="https://www.youtube.com/embed/eTCsqjW_07M">
-</iframe> 
-
 <a name="research_aag"></a>
 ### Research at a glance
 
@@ -54,6 +45,7 @@ More about Jiangtao's teaching:
 [[Teaching]](#teaching).
 [[Academic Advising]](#advising).
 [[Professional Experience]](#professionalExperience).
+[[A Brief Introduction to Multiple Tests]](#presentationvideo).
 
 
 
@@ -268,3 +260,11 @@ SAS Institute Inc, Cary, NC.
 [[Presentation at SAS: Relevance Feedback]](assets/doc/slides/jg_relevanceFeedbackSlides1.pdf). 
 
 
+<a name="presentationvideo"></a>
+### A Brief Introduction to Multiple Tests
+#### Speeding up Clinical Trials by Jiangtao Gou
+Seven Minutes of Science: An Interdisciplinary Symposium, Evanston, IL, September 19, 2013
+
+<iframe width="360" height="270"
+src="https://www.youtube.com/embed/eTCsqjW_07M">
+</iframe> 
