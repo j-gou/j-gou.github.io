@@ -33,7 +33,7 @@ More about Jiangtao's research:
 </p>
 
 More about Jiangtao's teaching: 
-[[Statistical Education Publications]](#publications_edu). 
+[[Statistics Education Publications]](#publications_edu). 
 [[Teaching Experience]](#teaching). 
 [[Academic Advising]](#advising). 
 
@@ -61,13 +61,13 @@ B.S. in Physics and Mathematics, Tsinghua University, Beijing, July 2007.
 
 <a name="publications"></a>
 ## Publications 
-[[Statistical Education]](#publications_edu).
+[[Statistics Education]](#publications_edu).
 [[Theory and Methods]](#publications_thy).
 [[Applications and Case Studies]](#publications_app). 
 [[Link to Google Scholar]](https://scholar.google.com/citations?user=tkdK1j4AAAAJ&hl=en) 
 
 <a name="publications_edu"></a>
-### Publications (Statistical Education)
+### Publications (Statistics Education)
 
 1.  _J Gou_, F Zhang (2017). 
 Experience Simpson’s paradox in the classroom. 
